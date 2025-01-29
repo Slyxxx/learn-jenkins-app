@@ -37,7 +37,7 @@ pipeline {
                     '''
             }
         }
-    }
+    
 
         stage('E2E') {
             agent {
